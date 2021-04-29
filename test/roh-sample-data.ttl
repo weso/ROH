@@ -1,0 +1,3 @@
+@prefix : <http://www.eaxmple.es> .
+
+:weso a :Group .

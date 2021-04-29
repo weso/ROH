@@ -1,0 +1,5 @@
+prefix : <http://www.eaxmple.es> 
+
+:GroupShape EXTRA a{
+   a [:Group] 
+}

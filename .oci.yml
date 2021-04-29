@@ -1,0 +1,3 @@
+manifestPath: manifest.json
+ontologyFolder: roh/modules/core
+testFolder: test
