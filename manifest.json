@@ -14,5 +14,13 @@
     "schema": "group.shex",
     "in_shape_map": "group_in.sm",
     "out_shape_map": "group_out.sm"
+  },
+ {
+    "test_name": "ROH test",
+    "ontology": "roh-core.ttl",
+    "data": "roh-sample-data.ttl",
+    "schema": "group.shex",
+    "in_shape_map": "group_in.sm",
+    "out_shape_map": "group_out.sm"
   }
 ]
